@@ -52,6 +52,18 @@ h3 {
     color: maroon ;
     margin: 0%; 
 }
+
+/*Service list model-box*/
+.border-box {
+    text-align: left; height:100px ; width: 300px;
+    background: #fd9;
+    margin: 1px; 
+    padding: 5px;
+    font-size:16px; 
+    font-weight: bold;
+    border: dashed 1px black;
+}
+
     /* Styling Article-Biography*/
     article {
         background:#fd9;
