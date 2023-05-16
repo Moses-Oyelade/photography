@@ -101,3 +101,20 @@ h3 {
         margin: 20px 0 0;
         padding: 20px 0 0;
     }
+
+        /*Footer*/
+    footer {
+        text-align: center;
+        color: maroon;
+        font-size: 14px;
+    }
+    
+    /* sidebar */
+    .primary-sidebar {
+        margin: 0x;
+        padding: 5px;
+        width: 350px;
+        background-color: aquamarine;
+        text-align: justify;
+    }
+    
