@@ -110,17 +110,18 @@ h3 {
     }
     
     /* sidebar */
-    #head-sidebar {
+    .head-sidebar {
         margin: 0x;
         padding: 5px;
         width: 350px;
-        background-color: aquamarine;
-        text-align: justify;
+        background-color: #fd9;
+        text-align: center;
+        font-weight: bold;
     }
     .body-sidebar {
-        margin: 0x;
-        padding: 5px;
-        width: 350px;
+        margin: 3x;
+        padding: 10px;
+        width: 330px;
         background-color: aquamarine;
         text-align: justify
 
