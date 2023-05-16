@@ -1,0 +1,10 @@
+/*Style header*/
+header {
+    text-align: center;
+    background-color: peachpuff;
+    background-position-x: 0%;
+    padding: 10px;
+    font-size: 20px;
+    color: maroon ;
+    margin: 0%;
+}
