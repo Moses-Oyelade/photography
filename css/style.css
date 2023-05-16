@@ -52,3 +52,40 @@ h3 {
     color: maroon ;
     margin: 0%; 
 }
+    /* Styling Article-Biography*/
+    article {
+        background:#fd9;
+        padding:20px;
+        margin: 2px 0;
+        width: 500px;
+        border: dashed 1px black;
+    
+    }
+    
+    article p {
+        margin: 0 0 20px;
+        width: 500px;
+    
+    }
+    
+    article img {
+        height: 150px;
+        width: auto;
+        float: right;
+        margin-right: 10px;
+      }
+    
+    section.post-head small {
+        display: block;
+        margin: 0 0 20px;
+        padding: 0 0 20px;
+        border-bottom: solid 1px #eee;
+        color: maroon;
+    }
+    
+    section.post-foot {
+        font-size: 14px;
+        border-top: solid 1px #eee;
+        margin: 20px 0 0;
+        padding: 20px 0 0;
+    }
