@@ -8,3 +8,22 @@ header {
     color: maroon ;
     margin: 0%;
 }
+
+/*Body background with camera photo*/
+body {
+    background-image: url('https://cdn.mos.cms.futurecdn.net/AL4G6RNRUUxo7Ln8v3ZLLK-650-80.jpg.webp');
+    background-position: center; 
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin: 0;
+}
+
+/*Page Reference Navigaton*/
+#navigation {
+    text-indent: 10%;
+    color:blueviolet;
+    font-weight: 400;
+    letter-spacing: 5px;
+    background-color: blanchedalmond;
+}
